@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Technology Stack
 
-Frontend: React
+Frontend: React\
 State Management: useReducer Hook
 
 ## Available Scripts
